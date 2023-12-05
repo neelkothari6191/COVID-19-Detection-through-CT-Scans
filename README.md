@@ -9,3 +9,5 @@ This project utilizes machine learning techniques to detect COVID-19 cases throu
 1. Clone the repository:
    ```bash
    git clone https://github.com/neelkothari6191/COVID-19-Detection-through-CT-Scans.git
+
+## Team: Neel Kothari, Mohammed Raza Syed
